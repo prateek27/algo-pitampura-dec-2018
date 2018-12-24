@@ -1,0 +1,15 @@
+Questions
+---------
+
+
+1) Given a Tree, Mirror It.
+
+2) Given a BT, write a function to replace every node
+represents sum of all descendants of it including itself.
+
+3) Given a BT, write a function to replace every node
+with sum of descendants only, and leaf nodes should 
+remain as it is.
+
+
+
