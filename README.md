@@ -1,5 +1,5 @@
 # algo-pitampura-dec-2018
-course repo for algo++ batch
+course repo for algo++ batch with doubt classes
 
 Lecture #1
 - Birthday Paradox
